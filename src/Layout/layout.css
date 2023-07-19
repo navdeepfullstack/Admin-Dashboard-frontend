@@ -1,0 +1,14 @@
+.wrapper {
+    background-color: #ECEFF1;
+    min-height: 100vh;
+}
+
+.main {
+    padding: 10px 10px 10px 300px;
+}
+
+@media (max-width:1199px) {
+    .main {
+        padding: 10px 10px 10px 10px;
+    }
+}
